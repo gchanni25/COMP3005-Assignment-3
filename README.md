@@ -7,7 +7,8 @@ Student Number: 101327639
 Steps to compile and run program:
 
 1. Install the driver with this command: pip install psycopg2-binary
-2. Inside app.py, update these lines to match your PostgreSQL setup:
+2. Enter in the database.sql script into the query tool in PGAdmin to initialize database table.
+3. Inside app.py, update these lines to match your PostgreSQL setup:
 
 DB_HOST = "localhost"
 DB_PORT = 5432
