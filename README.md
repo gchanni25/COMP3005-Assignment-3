@@ -16,6 +16,6 @@ DB_NAME = "your_db_name"
 DB_USER = "your_db_username"
 DB_PASS = "your_password"
 
-3. Run the python script: python app.py
+4. Run the python script: python app.py
 
 Please reference this video to see how the program runs: https://youtu.be/zXNH4xXOt84
